@@ -2,7 +2,7 @@
  * Pato Daian Lucas E
  * 04-04-15*/
 # include <stdio.h>
-int main ()
+int main (void)
 {
         printf ("hola mundo");
         return 0;
